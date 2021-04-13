@@ -19,6 +19,13 @@ The following is a set of guidelines for contributing to the FledgePower project
   * [Git Commit Messages](#git-commit-messages)
   * [English language convention](#english-language-convention)
 
+[Project Governance](#project-governance)
+  * [Project Owner](#project-owner)
+  * [Technical Charter](#technical-charter)
+  * [Committers](#committers)
+  * [Technical Steering Committee](#technical-steering-committee)
+  * [Contributors](#contributors)
+
 ## Code of Conduct
 
 This project applies the [LF Energy Code of Conduct](https://www.lfenergy.org/about/code-of-conduct/). By participating, you are expected to uphold this code. Please report unacceptable behavior to the project's Technical Steering Committee [fledgepower-tsc@lists.lfenergy.org](mailto:fledgepower-tsc@lists.lfenergy.org).
@@ -97,3 +104,46 @@ As usual, please start the commit message with a short line describing the commi
 The convention for all the project's documents, including code documentation, website, is to write American English.
 A list of spelling differences between British and American English is available 
 [here](https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english) for example.
+
+## Project Governance
+
+#### Project Owner
+
+FledgePower is part of the [LF Energy Foundation](https://www.lfenergy.org/), a project of The Linux Foundation that supports open source innovation projects within the energy and electricity sectors.
+
+#### Technical Charter
+
+The Project's [Technical Charter](FledgePower%20Technical%20Charter%20-%202021-02-11.pdf) sets forth the responsibilities and procedures for technical contribution to, and oversight of, the COMPAS Project.
+
+#### Committers
+
+Committers are contributors who have made several valuable contributions to the project and are now relied upon to both write code directly to the repository and screen the contributions of others. In many cases they are programmers but it is also possible that they contribute in a different role. Typically, a committer will focus on a specific aspect of the project, and will bring a level of expertise and understanding that earns them the respect of the community and the project owner.
+
+#### Technical Steering Committee
+
+The Technical Steering Committee (TSC) is composed of voting members elected by the active Committers as described in the project’s Technical Charter. The TSC is responsible for the technical direction of the project.
+
+#### Members
+FledgePower TSC voting members are:
+- Lucas Barret - [Lucas Barret | LinkedIn](https://www.linkedin.com/in/lucas-barret-67194b164/)
+- Estelle Chigot - [Estelle Chigot | LinkedIn](https://www.linkedin.com/in/estelle-chigot/)
+- Daniel Lazaro - [Daniel Lazaro | LinkedIn](https://www.linkedin.com/in/daniellazaro/)
+- Akli Rahmoun -  [Akli RAHMOUN | LinkedIn](https://www.linkedin.com/in/akli-rahmoun-147696a/)
+- Mark Riddoch - [Mark Riddoch | LinkedIn](https://www.linkedin.com/in/mark-riddoch-02ab883/)
+- SwissGrid member
+
+#### Voting
+While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis. The simple majority is needed to approve proposals.
+
+#### Responsibilities
+The project is split into several repositories. There is at least one Committer in charge of each repository. By "in charge", we mean:
+-	best effort to review the pull request,
+-	best effort to resolve issues,
+-	building and publishing the releases, including writing the release notes and informing the community,
+-	in case of unability to perform the above tasks, the Committer in charge has to ask the TSC through the list [fledgepower-tsc@lists.lfenergy.org](mailto:fledgepower-tsc@lists.lfenergy.org) to find another Committer to review the pull request, resolve the issue or build and publish the release.
+
+#### Contributors
+
+Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project.
+
+Anyone can become a contributor. There is no expectation of commitment to the project, no specific skill requirements and no selection process. To become a contributor, a community member simply has to perform one or more actions that are beneficial to the project.
