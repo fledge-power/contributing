@@ -125,12 +125,9 @@ The Technical Steering Committee (TSC) is composed of voting members elected by 
 
 #### Members
 FledgePower TSC voting members are:
-- Lucas Barret - [Lucas Barret | LinkedIn](https://www.linkedin.com/in/lucas-barret-67194b164/)
-- Estelle Chigot - [Estelle Chigot | LinkedIn](https://www.linkedin.com/in/estelle-chigot/)
 - Daniel Lazaro - [Daniel Lazaro | LinkedIn](https://www.linkedin.com/in/daniellazaro/)
 - Akli Rahmoun -  [Akli RAHMOUN | LinkedIn](https://www.linkedin.com/in/akli-rahmoun-147696a/)
 - Mark Riddoch - [Mark Riddoch | LinkedIn](https://www.linkedin.com/in/mark-riddoch-02ab883/)
-- SwissGrid member
 
 #### Voting
 While the Project aims to operate as a consensus-based community, if any TSC decision requires a vote to move the Project forward, the voting members of the TSC will vote on a one vote per voting member basis. The simple majority is needed to approve proposals.
