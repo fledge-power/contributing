@@ -119,6 +119,8 @@ The Project's [Technical Charter](FledgePower%20Technical%20Charter%20-%202021-0
 
 Committers are contributors who have made several valuable contributions to the project and are now relied upon to both write code directly to the repository and screen the contributions of others. In many cases they are programmers but it is also possible that they contribute in a different role. Typically, a committer will focus on a specific aspect of the project, and will bring a level of expertise and understanding that earns them the respect of the community and the project owner.
 
+Committers/Reviewers: Akli RAHMOUN, Mark RIDDOCH, Mickael CHEROUISE, Arnauld ALEX
+
 #### Technical Steering Committee
 
 The Technical Steering Committee (TSC) is composed of voting members elected by the active Committers as described in the project’s Technical Charter. The TSC is responsible for the technical direction of the project.
