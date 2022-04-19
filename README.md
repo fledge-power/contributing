@@ -1,8 +1,8 @@
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
+
 # FledgePower - Power systems protocols translation gateway based on Fledge
 
 ## Project Overview
-
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
 
 FledgePOWER is a multi-protocol translation gateway for power systems based on the industrial IoT LF Edge project Fledge.
 
