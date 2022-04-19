@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5969/badge)](https://bestpractices.coreinfrastructure.org/projects/5969)
+
 FledgePOWER is a multi-protocol translation gateway for power systems based on the industrial IoT LF Edge project Fledge.
 
 As power systems transform to include increasing onboarding of renewables, electric vehicles, assets at the edge, or behind the meter, network operators must be able to monitor and interact with substation equipment where a high-volume of data is exchanged with a high-velocity of change. These exchanges require real-time, efficient, robust, and secure communications.
