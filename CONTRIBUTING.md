@@ -113,7 +113,7 @@ FledgePower is part of the [LF Energy Foundation](https://www.lfenergy.org/), a 
 
 #### Technical Charter
 
-The Project's [Technical Charter](FledgePower%20Technical%20Charter%20-%202021-02-11.pdf) sets forth the responsibilities and procedures for technical contribution to, and oversight of, the COMPAS Project.
+The Project's [Technical Charter](FledgePower%20Technical%20Charter%20-%202021-02-11.pdf) sets forth the responsibilities and procedures for technical contribution to, and oversight of, the FledgePower Project.
 
 #### Committers
 
